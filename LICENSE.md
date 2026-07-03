@@ -1,4 +1,4 @@
-# 
+# Léger GitMind guide. Téléchargez et installez avec modèles pré-entraînés et synchronisation cloud — rapide, sécurisé et facile à utiliser.
 
 
 
